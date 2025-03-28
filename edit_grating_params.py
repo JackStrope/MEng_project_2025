@@ -1,6 +1,3 @@
-# Testing
-
-
 # Simple user interface for editing parameters
 
 import pygame,pigame
